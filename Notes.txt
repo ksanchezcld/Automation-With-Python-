@@ -1,0 +1,41 @@
+===================
+CLASES WEBSCRAPING
+===================
+
+Class #1: Using Python for Automation  :: LINKEDIN EDUCATION
+Class #2: https://platzi.com/clases/1751-webscraping/24791-configuracion-del-entorno-de-trabajo-con-jupyter/
+Class #3: https://www.youtube.com/watch?v=lu_ffHK-nnI&list=TLPQMzAwNDIwMjAANIDbjcQ1hw&index=4
+
+
+Class #1: Using Python for Automation  :: LINKEDIN EDUCATION
+----------------------------------
+AUTOR: Madecraft and Sam Pettus
+----------------------------------
+
+Learning objectives
+
+Reading and writing files
+Organizing directories
+Web scraping with Beautiful Soup
+Automating web browsing with Selenium
+Automating with APIS
+Creating API requests
+Linking API calls
+
+
+Clase #1: https://www.linkedin.com/learning/using-python-for-automation/how-to-write-files
+Clase #2: https://www.linkedin.com/learning/python-automation-and-testing/welcome
+
+
+
+
+- brew cask install chromedriver  :: MAC OS X
+
+
+
+SOURCES
+- https://scrapingclub.com
+- https://leanpub.com/ultimateguidetoscrapy/
+- http://seleniumeasy.com
+- https://www.geeksforgeeks.org/implementing-web-scraping-python-scrapy/
+- https://www.geeksforgeeks.org/how-to-access-popup-login-window-in-selenium-using-python/
